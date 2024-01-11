@@ -1,0 +1,23 @@
+2024-01-10 23:00:06.691  INFO 44112 --- [main] c.g.k.cs122b.gateway.GatewayService      : Starting GatewayService using Java 20.0.2 on Spaceship-292.local with PID 44112 (/Users/feiyue/my_projects/online_shop/backend/target/classes started by feiyue in /Users/feiyue/my_projects/online_shop/backend)
+2024-01-10 23:00:06.693  INFO 44112 --- [main] c.g.k.cs122b.gateway.GatewayService      : No active profile set, falling back to 1 default profile: "default"
+2024-01-10 23:00:07.113  INFO 44112 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=b07e1b77-7e8a-3a6c-bf79-dbf6e0ebbcdb
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [After]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Before]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Between]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Cookie]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Header]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Host]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Method]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Path]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Query]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [ReadBody]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [RemoteAddr]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Weight]
+2024-01-10 23:00:07.482  INFO 44112 --- [main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2024-01-10 23:00:07.568  INFO 44112 --- [main] ctiveUserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 7c3c3072-7fb4-454e-bca2-7f186f724060
+
+2024-01-10 23:00:07.656  INFO 44112 --- [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8084
+2024-01-10 23:00:07.673  INFO 44112 --- [main] c.g.k.cs122b.gateway.GatewayService      : Started GatewayService in 1.23 seconds (JVM running for 1.621)

@@ -1,0 +1,15 @@
+{
+  "idm": {
+    "baseUrl": "http://localhost:8082",
+    "login": "/login",
+    "register": "/register"
+  },
+  "search": {
+    "baseUrl": "http://localhost:8083",
+    "movieSearch": "/movie/search",
+    "movieSearchByPersonId": "/movie/search/person/{personId}",
+    "movieGetByMovieId": "/movie/",
+    "personSearch": "/person/search",
+    "personGetByPersonId": "/person/{personId}"
+  }
+}
